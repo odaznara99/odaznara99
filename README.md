@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jay Russell
+# Hi there 👋 I'm Odaz
 
 <h3 align="left">Back-End Developer | Mobile App Developer | Game Developer</h3>
 
