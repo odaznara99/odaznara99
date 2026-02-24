@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jay Russell
 
 ## 🚀 About Me
-- 💻 Mobile Developer
+- 💻 Fullstack Developer
 - 📱 Working on Android Apps
 - 🌱 Currently learning advanced UI/UX design
 - 🎯 Goal: Build scalable mobile applications
@@ -10,7 +10,9 @@
 - Java
 - Firebase
 - MySQL
+- Oracle SQL
 - .NET MAUI
+- Android Studio
 - Git & GitHub
 
 ## 📌 Featured Projects
@@ -22,4 +24,4 @@ Built with .NET MAUI and MySQL database.
 
 ## 📫 Connect With Me
 - LinkedIn: (your link here)
-- Email: your@email.com
+- Email: jayrussell.aranzado@gmail.com
