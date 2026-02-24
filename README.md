@@ -22,15 +22,15 @@ I build real-world systems — from enterprise backend platforms to mobile appli
 ### 💾 Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,idea,python,powershell,bat" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Reports-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/JasperReports-0052CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VisionX-4B0082?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,idea,python,powershell,bat" />
 </p>
 
 ---
