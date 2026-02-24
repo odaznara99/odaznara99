@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jay Russell
 
-<h3 align="left">Back-End Developer | Mobile App Developer</h3>
+<h3 align="left">Back-End Developer | Mobile App Developer | Game Developer</h3>
 
 ---
 
@@ -8,44 +8,59 @@
 
 🔹 Back-End Developer at Manulife  
 🔹 Working with Oracle SQL, Oracle Forms & Reports  
-🔹 Currently involved in enterprise system migration projects  
+🔹 Involved in enterprise system migration projects  
 🔹 Using IntelliJ IDEA, JasperReports, and VisionX  
 
 ---
 
 ## 🚀 About Me
 
-💻 Professional Back-End Developer in enterprise systems  
+💻 Enterprise Back-End Developer  
 📱 Commissioned Mobile App Developer  
-🔥 Experienced in database-driven applications  
-🎯 Focused on scalable backend architecture and clean UI/UX  
+🎮 Unity Game Developer  
+🎯 Focused on scalable backend systems and clean application architecture  
 
-I build real-world applications — from enterprise backend systems to full mobile solutions.
+I build real-world systems — from enterprise backend platforms to mobile applications and indie games.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💾 Backend & Database
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,java" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,idea" />
 </p>
 
-- Oracle SQL  
-- Oracle Forms  
-- Oracle Reports  
-- JasperReports  
-- VisionX  
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Reports-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JasperReports-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VisionX-4B0082?style=for-the-badge"/>
+</p>
 
-### 📱 Mobile & Frontend
+---
+
+### 📱 Mobile Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,firebase,androidstudio" />
 </p>
 
-### 🧰 Tools
+---
+
+### 🎮 Game Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
+
+- Unity Engine (2D/3D Game Development)  
+- C# Scripting  
+
+🔗 Check out my games here:  
+👉 https://odazdev.itch.io/
 
 ---
 
