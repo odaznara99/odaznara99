@@ -3,15 +3,8 @@
 <h3 align="left">Back-End Developer | Mobile App Developer | Game Developer</h3>
 
 ---
-
-## 💼 Current Role
-
-🔹 Back-End Developer at Manulife  
-🔹 Working with Oracle SQL, Oracle Forms & Reports  
-🔹 Involved in enterprise system migration projects  
-🔹 Using IntelliJ IDEA, JasperReports, and VisionX  
-
----
+🔗 Check out my portfolio here:
+👉https://odaznara99.github.io/
 
 ## 🚀 About Me
 
@@ -29,7 +22,7 @@ I build real-world systems — from enterprise backend platforms to mobile appli
 ### 💾 Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql,idea" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,idea,python,powershell,bat" />
 </p>
 
 <p align="left">
@@ -45,7 +38,7 @@ I build real-world systems — from enterprise backend platforms to mobile appli
 ### 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,firebase,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,firebase,androidstudio,figma" />
 </p>
 
 ---
@@ -56,27 +49,16 @@ I build real-world systems — from enterprise backend platforms to mobile appli
   <img src="https://skillicons.dev/icons?i=unity,cs" />
 </p>
 
-- Unity Engine (2D/3D Game Development)  
-- C# Scripting  
-
 🔗 Check out my games here:  
 👉 https://odazdev.itch.io/
 
 ---
 
-## 📱 Featured Projects
+### 📱 Tools
 
-### 🧺 Laundry Booking App
-Android application with Firebase backend, booking system, and rider tracking.
-
-### 🛒 Online Grocery Store (.NET MAUI)
-Multi-role system (Customer, Seller, Admin) integrated with MySQL.
-
----
-
-## 📊 GitHub Stats
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=odaznara99&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,visualstudio,vscode" />
+</p>
 
 ---
 
