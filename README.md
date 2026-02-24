@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Jay Russell
 
-<!--
-**odaznara99/odaznara99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Mobile Developer
+- 📱 Working on Android Apps
+- 🌱 Currently learning advanced UI/UX design
+- 🎯 Goal: Build scalable mobile applications
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Java
+- Firebase
+- MySQL
+- .NET MAUI
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+### 📱 Laundry App
+Android app with Firebase backend and booking system.
+
+### 🛒 Online Grocery Store
+Built with .NET MAUI and MySQL database.
+
+## 📫 Connect With Me
+- LinkedIn: (your link here)
+- Email: your@email.com
