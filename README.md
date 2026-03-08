@@ -25,7 +25,7 @@ I build real-world systems — from enterprise backend platforms to mobile appli
 ### 📱 Front-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,androidstudio,figma,html,css" />
 </p>
 
 
