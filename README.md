@@ -6,6 +6,7 @@ I'm a sofware engineer in Manulife Philippines where I collaborate with great mi
 
 - 💼 [Portfolio](https://odaznara99.github.io/)
 - 🎮 [Games](https://odazdev.itch.io/)
+- 📝 [Resume](https://github.com/odaznara99/odaznara99.github.io/blob/main/resume.pdf)
 
 ### 🦾 My Tech Stack
 
