@@ -2,7 +2,7 @@
 
 <h3 align="left"> 🙍‍♂️ About Me</h3>
 
-I'm a corporate backend software engineer but I'm also developing games as a hobby and making commision-based projects as a side hustle. You can check out my portfolio and games from the following links below.
+I'm a sofware engineer in Manulife Philippines where I collaborate with great minds and learn from the best. Outside of work, I'm also developing games as a hobby and making commision-based projects as my side hustle. You can check out my portfolio and games from the following links below.
 
 - 💼 [Portfolio](https://odaznara99.github.io/)
 - 🎮 [Games](https://odazdev.itch.io/)
