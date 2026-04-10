@@ -1,54 +1,27 @@
-# Hi there 👋 I'm Odaz
+# Ohayo gozaimasu! 👋 I'm Odaz
 
-<h3 align="left">Back-End Developer | Mobile App Developer | Indie Game Developer</h3>
+<h3 align="left">About Me</h3>
 
+I'm a corporate backend software engineer but I'm also developing games as a hobby and making commision-based projects as a side hustle. You can check out my portfolio and games from the following links below.
 
-🔗 Check out my featured projecs on my portfolio:
-👉https://odaznara99.github.io/
+- 💼 [Portfolio](https://odaznara99.github.io/)
+- 🎮 [Games](https://odazdev.itch.io/)
 
-## 🚀 About Me
-
-I build real-world systems — from enterprise backend platforms to mobile applications and indie games.
-
-
-
-## 🛠️ Tech Stack
-
-### 💾 Back-End
+### 🛠️ My Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,mysql,python,powershell,cs,kotlin,firebase,oracle" />
 </p>
 
-
-
-### 📱 Front-End
+### 📱 Known Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css" />
-</p>
-
-### 📱 Frameworks & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,dotnet,figma,git,github,vscode,visualstudio,jenkins"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,dotnet,figma,git,github,vscode,visualstudio,jenkins,unity"/>
 </p>
 
 
-
-### 🎮 Game Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs" />
-</p>
-
-🔗 Check out my games here:  
-👉 https://odazdev.itch.io/
-
-
-
-
-## 📫 Connect With Me
+### 📫 Connect With Me
+If you have a great opportunity for me, please contact me in linkedin or email.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jayaranzado/" target="_blank">
