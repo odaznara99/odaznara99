@@ -1,19 +1,19 @@
 # Ohayo gozaimasu! 👋 I'm Odaz
 
-<h3 align="left">About Me</h3>
+<h3 align="left"> 🙍‍♂️ About Me</h3>
 
 I'm a corporate backend software engineer but I'm also developing games as a hobby and making commision-based projects as a side hustle. You can check out my portfolio and games from the following links below.
 
 - 💼 [Portfolio](https://odaznara99.github.io/)
 - 🎮 [Games](https://odazdev.itch.io/)
 
-### 🛠️ My Tech Stack
+### 🦾 My Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,mysql,python,powershell,cs,kotlin,firebase,oracle" />
 </p>
 
-### 📱 Known Tools
+### 🛠️ Known Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,dotnet,figma,git,github,vscode,visualstudio,jenkins,unity"/>
